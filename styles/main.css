@@ -1,0 +1,10 @@
+body,
+body * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+img {
+  width: 30%;
+  float: left;
+  margin: 1.66%; }
+
